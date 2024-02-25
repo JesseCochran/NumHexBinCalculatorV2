@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NumHexBin Calculator</string>
+
+    <string-array name="numberOptions">
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+        <item>Octal</item>
+        <item>Binary</item>
+    </string-array>
+</resources>
