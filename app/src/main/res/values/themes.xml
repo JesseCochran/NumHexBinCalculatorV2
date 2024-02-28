@@ -3,6 +3,19 @@
     <style name="Base.Theme.NumHexBinCalculator" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:colorBackground">@color/backLayer</item>
+        <item name="colorPrimary">@color/PrimeColour</item>
+
+
+        <item name="colorSurface">@color/BackLayerWhiteText</item>
+
+        <item name="colorOnPrimary">@color/WhiteText</item>
+        <item name="colorOnBackground">@color/WhiteText</item>
+        <item name="colorOnSurface">@color/WhiteText</item>
+
+        <item name="colorPrimaryVariant">@color/backLayer</item>
+        <item name="colorPrimaryDark">@color/backLayer</item>
+        <item name="android:statusBarColor">@color/toolBar</item>
     </style>
 
     <style name="Theme.NumHexBinCalculator" parent="Base.Theme.NumHexBinCalculator" />
